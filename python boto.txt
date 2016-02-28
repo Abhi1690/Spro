@@ -1,0 +1,2 @@
+http://boto.cloudhackers.com/en/latest/ec2_tut.html
+(basic Code)
